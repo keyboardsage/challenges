@@ -15,6 +15,9 @@ Moderate
 ---
 * **prime numbers** needs improved prime algorithm
 * **counting primes** could use improved prime algorithm
+* **email validation** is 90% partial solution
+* **cash register** is 75% partial solution, needs major improvement
+* **string rotation** is 50% partial solution, needs complete overhaul
 
 Hard
 ---
