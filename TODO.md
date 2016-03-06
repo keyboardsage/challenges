@@ -18,6 +18,8 @@ Moderate
 * **email validation** is 90% partial solution
 * **cash register** is 75% partial solution, needs major improvement
 * **string rotation** is 50% partial solution, needs complete overhaul
+* **find a square** is 95% partial solution
 
 Hard
 ---
+* **text dollar** is 90% partial solution
