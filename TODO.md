@@ -23,3 +23,4 @@ Moderate
 Hard
 ---
 * **text dollar** is 90% partial solution
+* **word search** is 97.5% partial solution
