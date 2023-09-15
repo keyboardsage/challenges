@@ -15,7 +15,6 @@ bool isPalindrome(int x){
             digits_in_number = p+1;
             break;
         }
-    //printf("\n%d", digits_in_number);
     
     // read both sides (i is on right, j is on left) and compare each place, short circuit false if digits mismatch
     for (int i = 0, j = digits_in_number-1; i < digits_in_number/2; i++, j--)
