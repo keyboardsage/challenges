@@ -1,4 +1,4 @@
-size_t base10ToBaseN(int num, size_t radix) {
+int base10ToBaseN(int num, size_t radix) {
     size_t remainder = 0;
     size_t accumulator = 0;
     int the_sign = (num < 0) ? -1 : 1;
