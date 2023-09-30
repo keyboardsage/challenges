@@ -25,5 +25,5 @@ RETURN_COMMON_PREFIX:
     for (int k = 0; k < j; k++)
         longest_prefix[k] = ref[k];
 
-    return longest_prefix; // will never get here, but it would return whatever is in longest_prefix
+    return longest_prefix; // return whatever is in longest_prefix
 }

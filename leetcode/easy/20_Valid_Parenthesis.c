@@ -20,7 +20,7 @@ bool isValid(char * s){
         }
     }
 
-    if (top != 0) return false; // we were given too many opening brackets without companions, fail
+    if (top != 0) return false; // we were given too many opening/closing brackets without companions, fail
 
     return true;
 }
